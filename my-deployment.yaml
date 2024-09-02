@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mlapp-ds3-container # Nombre del contenedor
-          image: ghcr.io/juanloaiza007/mlapp-ds3:1.0
+          image: ghcr.io/juanloaiza007/mlapp-ds3:2.0
           ports:
             - containerPort: 8000
 
